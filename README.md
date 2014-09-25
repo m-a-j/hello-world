@@ -3,4 +3,6 @@ hello-world
 
 Hello there! I'm Eddie, your onboard computer.
 
-__HOW MAY I HELP YOU?__
+DOOR: Thank you for making a _simple_ door very happy.
+
+
